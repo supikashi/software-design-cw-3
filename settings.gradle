@@ -1,0 +1,8 @@
+rootProject.name = 'software-design-cw-3'
+
+includeBuild("eureka-server")
+includeBuild("api-gateway")
+includeBuild("my-api-gateway")
+includeBuild("orders-service")
+includeBuild("payments-service")
+
